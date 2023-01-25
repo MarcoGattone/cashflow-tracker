@@ -1,0 +1,10 @@
+.balance{font-size:2rem;font-weight: 700;}
+
+.currency{font-size: 1.5rem;}
+.euro{font-size:2rem;font-weight: 700;}
+.title{font-weight: 100;}
+
+.entrate,.uscite{font-size: 1.7rem;font-weight: 600;}
+.totalIncome,.totalExpense{font-size: 2rem;font-weight: 700;}
+
+.box-cash{box-shadow: 0px 0px 10px 2px #0000001a;}
